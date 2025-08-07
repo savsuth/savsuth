@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I’m Aasav Suthar
 
-<!--
-**savsuth/savsuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **M.S. in CS**, Northeastern University ’25  
 
-Here are some ideas to get you started:
+🔭 I’m currently:
+- Designing star schemas & OLAP cubes in R  
+- Fine-tuning transformers for NLP  
+- Building full-stack apps with React & Flask  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack:**  
+Java · Python · R · JavaScript · SQL · TensorFlow · PyTorch · React · Docker · MySQL · MongoDB
+
+## 🚀 Featured Projects
+
+### [MLprojects](https://github.com/savsuth/MLprojects)  
+End-to-end GAN denoiser & image-enhancement notebooks
+
+### [imgDenoiseBeta](https://github.com/savsuth/imgDenoiseBeta)  
+Streamlit app for real-time image denoising
+
+*…add 2–3 more of your best repos…*
+
+## 📫 Connect
+
+✉️ suthar.aa@northeastern.edu · 🔗 [LinkedIn](https://linkedin.com/in/aasavsuthar)
