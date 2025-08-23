@@ -1,7 +1,7 @@
 # Hey, I’m Aasav Suthar
 
-🎓 **M.S. in CS**, Northeastern University ’25  
-
+🎓 **M.S. in CS**, Northeastern University ’25
+   
 🔭 I’m currently:
 - Designing star schemas & OLAP cubes in R  
 - Fine-tuning transformers for NLP  
