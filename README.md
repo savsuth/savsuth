@@ -11,7 +11,7 @@
 - Building **full-stack web apps** with React & Flask 
 
 🛠️ **Tech Stack**  
-Java · Python · R · JavaScript · SQL · TensorFlow · PyTorch · React · Docker · MySQL · MongoDB  
+Java · Python · R · JavaScript · SQL · TensorFlow · PyTorch · React · Docker · MySQL · Power BI
 
 🌍 Outside of tech, I’m curious about how systems scale, how AI transforms industries, and how impactful AI can be. I also enjoy taking on projects that challenge me to learn something new every day.
 
