@@ -9,7 +9,7 @@ Currently exploring:
 - Analyzing **real-time data** and generating valuable insights from it  
 - Building **full-stack web apps** with React & Flask 
 
- Beside the tech, I’m curious about systematic designs and it's capability at the highest scale, how AI can transform industries, and how impactful AI can be the next leap in human development.
+ Beside the tech, I’m curious about systematic designs and it's capability at the highest scale, how AI can transform industries, and how AI can be the next leap in human development.
 
 ##  Connect  
 ✉️ suthar.aa@northeastern.edu 
