@@ -2,7 +2,7 @@
 
 **M.S. in Computer Science, Northeastern University**
 
-I work at the intersection of data, artificial intelligence, and software engineering, drawn to the question of how systems hold up at scale. Small architectural decisions compound into outcomes that reshape entire products — and increasingly, entire industries. I thrive in environments where development moves fast, adapting readily to new tools, teams, and constraints. My curiosity consistently pulls me toward integrated systems — not only how they're built, but the functionality that drives them underneath. I'm here to build for that scale, and to understand what it means as AI reshapes not just software, but the trajectory of human progress.
+I work at the intersection of data, artificial intelligence, and software engineering, drawn to the question of how systems hold up at scale. Small architectural decisions compound into outcomes that reshape entire products and increasingly, entire industries. I thrive in environments where development moves fast, adapting readily to new tools, teams, and constraints. My curiosity consistently pulls me toward integrated systems — not only how they're built, but the functionality that drives them underneath. I'm here to build for that scale, and to understand what it means as AI reshapes not just software, but the trajectory of human progress.
 
 ## Tech Stack
 
