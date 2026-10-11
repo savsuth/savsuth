@@ -19,7 +19,7 @@ I work at the intersection of data, artificial intelligence, and software engine
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
 ## Contact
-suthar.aa@northeastern.edu
+aasavsuthar059@gmail.com
 
 ## LinkedIn
 [linkedin.com/in/aasavsuthar](https://www.linkedin.com/in/aasavsuthar)
