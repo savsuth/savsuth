@@ -1,7 +1,6 @@
 <h1 align="center">Aasav Suthar</h1>
 
 <p align="center">
-  <strong>Building the systems behind intelligent software.</strong><br>
   M.S. in Computer Science · Northeastern University
 </p>
 
